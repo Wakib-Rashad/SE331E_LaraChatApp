@@ -40,6 +40,3 @@ var pusher = new Pusher('49f3ba8c9d3adab2613e', {
     forceTLS: true
 });
 ```
-#� �S�E�3�3�1�E�_�L�a�r�a�C�h�a�t�A�p�p�
-�
-�
